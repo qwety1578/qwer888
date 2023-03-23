@@ -3,7 +3,7 @@
  
 int main(int argc, char *argv[])
 {
-    int R,C,n;
+      int R,C,n;
     scanf("%d",&R);
     scanf("%d",&C); 
     scanf("%d",&n);
